@@ -1,8 +1,7 @@
 # Pymaceuticals
 
-This repo presents an analysis of sample data from a trial of cancer drugs on mice utilizing pandas & matplotlib. See the [jupyter notebook](./Pymaceuticals/Pymaceuticals.ipynb).
-
-The project was completed for Rutgers Data Science Bootcamp and can be found [here](https://github.com/RutgersCodingBootcamp/RU-JER-DATA-PT-10-2019-U-C/tree/master/Homework/05-Matplotlib/Instructions). 
+This repo presents an analysis of sample data from a trial of cancer drugs on mice utilizing pandas & matplotlib. 
+See the [jupyter notebook](./Pymaceuticals/Pymaceuticals.ipynb).
 
 ![Fig](./Pymaceuticals/MouseSurvivalRateLineGraph.png)
 
@@ -16,3 +15,7 @@ The project was completed for Rutgers Data Science Bootcamp and can be found [he
 
 ![Fig](./Pymaceuticals/TumorResponseBarGraph.png)
 ![Fig](./Pymaceuticals/TumorResponseLineGraph.png)
+
+
+
+* The project was completed for Rutgers Data Science Bootcamp and can be found [here](https://github.com/RutgersCodingBootcamp/RU-JER-DATA-PT-10-2019-U-C/tree/master/Homework/05-Matplotlib/Instructions). 
